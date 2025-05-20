@@ -175,7 +175,7 @@ Potential improvements to the project:
 - Analysis inspired by global efforts to understand and combat the COVID-19 pandemic
   The dashboard will open in your default web browser at http://localhost:8501
 
-## Stretch Goal Implementation: Interactive Dashboard with Streamlit
+## Stretch Goal Implementation: Interactive Dashboard with Streamlit (optional - covid_dashboard.py)
 
 Instructions for Running the Interactive Dashboard
 To run the interactive Streamlit dashboard:
