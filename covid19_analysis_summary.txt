@@ -1,0 +1,14 @@
+COVID-19 Global Data Tracker - Analysis Summary
+==================================================
+
+Analysis Date: 2025-05-20
+Data Source: Our World in Data (up to 2024-08-14)
+
+Key Insights:
+1. Case Distribution: India has the highest number of reported cases among analyzed countries.
+2. Death Rates: Brazil shows the highest death rate at 1.87%.
+3. Vaccination Progress: India leads in vaccination with 67.18% fully vaccinated.
+
+Analyzed Countries: United States, India, Brazil, United Kingdom, Kenya
+
+Generated visualizations saved as PNG files in the working directory.
