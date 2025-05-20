@@ -1,0 +1,5 @@
+*.ipynb linguist-language=Python
+*.ipynb linguist-detectable=true
+*.png linguist-detectable=false
+*.html linguist-detectable=false
+*.md linguist-detectable=false
